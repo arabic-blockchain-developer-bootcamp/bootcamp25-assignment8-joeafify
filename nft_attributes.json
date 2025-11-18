@@ -1,0 +1,15 @@
+{
+  "name": "Conquer NFT",
+  "description": "An exclusive NFT collection for Conquer members.",
+  "image": "https://azure-defeated-hawk-984.mypinata.cloud/ipfs/bafkreibjom2tkuk3qdvoopyexqljvixdnej4ri24y4tqtx6lq55vexdhnm",
+  "attributes": [
+    {
+      "trait_type": "level",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "category",
+      "value": "Exclusive Membership"
+    }
+  ]
+}
